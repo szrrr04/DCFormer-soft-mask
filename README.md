@@ -8,3 +8,5 @@
   - **改进版2**
 - `DCFormer-tpk-myself-batch8-min-BN-improve-topk/`
   - **改进版3**
+- `DCFormer-tpk-myself-batch8-min-BN-improve-topk-2/`
+  - **改进版3+mask**
